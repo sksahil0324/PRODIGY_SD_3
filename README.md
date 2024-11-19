@@ -1,5 +1,4 @@
 # PRODIGY_SD_3
-Here’s a **README.md** file for the Contact Manager program:
 
 ```markdown
 # Contact Manager
